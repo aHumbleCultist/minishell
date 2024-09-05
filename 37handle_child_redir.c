@@ -21,7 +21,6 @@ void	quit_child(char **commands, t_env **minienv)
 	exit(EXIT_FAILURE);
 }
 
-
 void	handle_child_redir(char *command, char **commands, t_env **minienv)
 {
 	char	redirect;

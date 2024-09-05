@@ -88,5 +88,3 @@ char	**split_av(char *input)
 	restore_spaces(av);
 	return (av);
 }
-
-
